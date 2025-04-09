@@ -45,19 +45,11 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 />
 <img
     align="left" 
-    alt="Angular"
-    title="Angular" 
+    alt="Next.js"
+    title="Next.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"                    
-/>
-<img
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"                   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"                   
 />
 <img 
     align="left" 
@@ -117,22 +109,6 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 />
 <img 
     align="left" 
-    alt="Jest" 
-    title="Jest"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"          
-/>
-<img 
-    align="left" 
-    alt="Jest" 
-    title="Jest"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
-/>
-<img 
-    align="left" 
     alt="GitLab" 
     title="GitLab"
     width="30px" 
@@ -146,14 +122,6 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"                   
-/>
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"                            
 />
 <img 
     align="left" 
