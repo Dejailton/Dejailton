@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, sou um desenvolvedor Full Stack com ampla experiência em tecnologias como Java, Python, JavaScript, TypeScript, Spring, Angular, Node.js, HTML, CSS, Docker, Kubernetes, AWS, Git, GitHub, JSP, JSF, JMS, EJB, MVC, SOAP, APIs RESTful, além de gerenciamento de bancos de dados relacionais e não relacionais. Realizo testes unitários com JUnit, Mockito e Jest, e implemento pipelines de CI/CD utilizando GitLab, Maven e Jenkins. Também possuo habilidades em manutenção e gerenciamento de sistemas GNU/Linux e Windows. Trabalho em equipe com metodologias ágeis como SCRUM, Kanban e XP, garantindo entregas eficientes e alinhadas às necessidades do projeto.
+Olá, sou um Desenvolvedor com experiência em Java, Python, Spring, Next.js, JavaScript e TypeScript. Possuo conhecimento em HTML, CSS, Docker, Kubernetes, arquitetura MVC, princípios SOLID, além de expertise em versionamento com Git/GitHub e gerenciamento de bancos de dados utilizando SQL Server. Tenho experiência na manutenção e administração de sistemas GNU/Linux e Windows, bem como na implementação de testes unitários com JUnit e Mockito. Trabalho de forma colaborativa, utilizando metodologias ágeis como Scrum para garantir entregas eficientes e de alta qualidade.
 
 LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 <p align="left">
