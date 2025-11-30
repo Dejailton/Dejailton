@@ -32,7 +32,15 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"           
+    src="https://github.com/user-attachments/assets/c789bd06-06c3-4cbe-987d-28f458720d1" 
+/>
+<img
+    align="left" 
+    alt="Flask Framework"
+    title="Flask" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"                     
 />
 <img
     align="left" 
