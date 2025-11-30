@@ -36,16 +36,16 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 />
 <img
     align="left" 
-    alt="Flask Framework"
-    title="Flask" 
+    alt="Flask"
+    title="Flask Framework" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/0017c93a-bbc1-46ec-bd79-4cabbd192d70"
 />
 <img
     align="left" 
-    alt="Spring Framework"
-    title="Spring" 
+    alt="Spring"
+    title="Spring Framework" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"                     
