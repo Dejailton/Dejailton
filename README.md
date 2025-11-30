@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, sou um Desenvolvedor com experiência em Java, Python, Spring, Next.js, JavaScript e TypeScript. Possuo conhecimento em HTML, CSS, Docker, Kubernetes, arquitetura MVC, princípios SOLID, além de expertise em versionamento com Git/GitHub e gerenciamento de bancos de dados utilizando SQL Server. Tenho experiência na manutenção e administração de sistemas GNU/Linux e Windows, bem como na implementação de testes unitários com JUnit e Mockito. Trabalho de forma colaborativa, utilizando metodologias ágeis como Scrum para garantir entregas eficientes e de alta qualidade.
-
+Olá, sou um Desenvolvedor com experiência em Python, Java, Flask, Spring Framework, JavaScript e TypeScript. Possuo conhecimento em HTML, CSS, Docker, arquitetura MVC, princípios SOLID, além de expertise em versionamento com Git/GitHub e gerenciamento de bancos de dados utilizando PostgreSQL. Tenho experiência na manutenção e administração de sistemas GNU/Linux e Windows, bem como na implementação de testes unitários com JUnit e Mockito.
 LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 <p align="left">
     <a href="https://github.com/Dejailton?tab=followers">
@@ -19,14 +18,6 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 
 ### 🤖 Linguagens e Tecnologias
 
-<img
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"           
-/>
 <img 
     align="left" 
     alt="Python" 
@@ -37,19 +28,19 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 />
 <img
     align="left" 
-    alt="Spring"
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"           
+/>
+<img
+    align="left" 
+    alt="Spring Framework"
     title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"                     
-/>
-<img
-    align="left" 
-    alt="Next.js"
-    title="Next.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"                   
 />
 <img 
     align="left" 
@@ -93,27 +84,11 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 />
 <img
     align="left" 
-    alt="Kubernetes"
-    title="Kubernetes" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg"                    
-/>
-<img
-    align="left" 
     alt="AWS"
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"                    
-/>
-<img 
-    align="left" 
-    alt="GitLab" 
-    title="GitLab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"          
 />
 <img 
     align="left" 
@@ -140,27 +115,3 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"          
 />
 
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Dejailton&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejailton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
