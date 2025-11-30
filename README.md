@@ -32,7 +32,7 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/c789bd06-06c3-4cbe-987d-28f458720d1" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"           
 />
 <img
     align="left" 
@@ -40,7 +40,7 @@ LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
     title="Flask" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"                     
+    src="https://github.com/user-attachments/assets/0017c93a-bbc1-46ec-bd79-4cabbd192d70"
 />
 <img
     align="left" 
