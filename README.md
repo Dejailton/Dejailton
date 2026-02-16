@@ -7,6 +7,7 @@ Desenvolvedor com experiência em Python, Java, atuando no desenvolvimento de ap
 Tenho experiência em frameworks como Spring Framework, Flask, SQLAlchemy, além de trabalhar com HTML, CSS, JavaScript na construção de interfaces eficientes e responsivas. Possuo experiência com arquitetura MVC, princípios SOLID, GitHubActions e versionamento com Git e GitHub, e conteinerização de aplicações com Docker.
 
 Tenho prática no gerenciamento de bancos de dados relacionais utilizando PostgreSQL.
+
 LinkedIn: www.linkedin.com/in/dejailton-da-silva-queiroz-771867319/
 <p align="left">
     <a href="https://github.com/Dejailton?tab=followers">
